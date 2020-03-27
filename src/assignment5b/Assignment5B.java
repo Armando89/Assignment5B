@@ -1,7 +1,7 @@
 //Armando Galan-Cedeño  Assignment5B
 //CS121 Spring 2020
 //March 26, 2020
-//Purpose: Temp Convertion Application
+//Purpose: Temp Conversion Application
 
 package assignment5b;
 import javax.swing.JOptionPane;
